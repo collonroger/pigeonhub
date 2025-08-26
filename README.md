@@ -5,3 +5,5 @@ Main script:
 
 Autofarm Diamonds script:
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/collonroger/pigeonhub/refs/heads/main/autofarmdiamonds.lua"))()```
+Discord:
+https://discord.gg/GTjQsceP
