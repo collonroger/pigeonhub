@@ -6,7 +6,10 @@ Main script:
 Autofarm Diamonds script:
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/collonroger/pigeonhub/refs/heads/main/autofarmdiamonds.lua"))()```
 
-Just wait if it makes you serverhop the same server each time. This will be fixed in the future
+
+Steal a Brainrot Brainrot finder
+
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/collonroger/pigeonhub/refs/heads/main/steal%20a%20brainrot%201-10m%20finder"))()```
 
 Discord:
 https://discord.gg/GTjQsceP
